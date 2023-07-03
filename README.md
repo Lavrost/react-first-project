@@ -1,5 +1,16 @@
 # Getting Started with Create React App
 
+
+Откуда брал проект - https://www.youtube.com/watch?v=GNrdg3PzpJQ
+Код блогера - https://github.com/utimur/react-fundamental-course
+
+
+НЕреализованны 
+    доп CSS анимации - лишнее;
+    динамическая навигация, авторизация, комментарии - не та версия библиотеки
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
