@@ -2,6 +2,7 @@
 
 
 Откуда брал проект - https://www.youtube.com/watch?v=GNrdg3PzpJQ
+
 Код блогера - https://github.com/utimur/react-fundamental-course
 
 
